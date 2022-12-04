@@ -51,7 +51,7 @@ font-family: "Noto Sans Japanese", sans-serif;
 Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
 
 - Final screenshots in the “screenshots” folder.
-- [**Watch this video to see how it interacts.**](https://youtu.be/0LRbsoyvgpY)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-3/modularity-mindfulness.mp4)
 
 ---
 
